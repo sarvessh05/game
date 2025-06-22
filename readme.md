@@ -1,4 +1,4 @@
-🕵️‍♂️ Mystery of the Vanished Scroll
+##🕵️‍♂️ Mystery of the Vanished Scroll
 A console-based interactive detective game built in Python. Play as Detective Aayan Patil and solve the mysterious theft of a priceless scroll signed by Chhatrapati Shivaji Maharaj. Your choices determine the outcome — success, failure, or hidden truths.
 
 📜 Game Plot
